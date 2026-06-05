@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Reserva de Prueba",
+      "date": "2026-06-05"
+    }
+  ]
+}
